@@ -8,39 +8,38 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+// #define push_back as pb;
 class Solution {
 public:
-// #define push_back as pb;
     vector<int> nodesBetweenCriticalPoints(ListNode* head) {
-        if (!head || !head->next || !head->next->next) return {-1, -1}; // Less than 3 nodes
-
-        ListNode* prev = head;
-        ListNode* curr = head->next;
-        ListNode* after = curr->next;
-        int i = 1;  // index of curr
-        vector<int> v;
-
-        while (after) {
-            if ((curr->val > prev->val && curr->val > after->val) || 
-                (curr->val < prev->val && curr->val < after->val)) {
+        ListNode* prev=head;
+        head=head->next;
+         ListNode* after=head->next;
+        int i=1;
+        vector<int>v;
+        while(head->next!=NULL){
+            if(head->val>prev->val && head->val>after->val){
                 v.push_back(i);
             }
-            prev = curr;
-            curr = after;
-            after = after->next;
+            else if(head->val<prev->val && head->val<after->val){
+                v.push_back(i);
+            }
+            prev=head;
+            if(head->next!=NULL) head=head->next;
+            if(after->next!=NULL) after=after->next;
             i++;
         }
-
-        int n = v.size();
-        if (n >= 2) {
-            int minDist = INT_MAX;
-            for (int j = 1; j < n; ++j) {
-                minDist = min(minDist, v[j] - v[j-1]);
-            }
-            int maxDist = v[n-1] - v[0];
-            return {minDist, maxDist};
-        } else {
-            return {-1, -1};
+        int n=v.size();
+        int a=INT_MAX;
+        for(int i=1;i<n;i++){
+            a=min(a,v[i]-v[i-1]);
         }
+        if(n>=2){
+        return {a,v[n-1]-v[0]};
+        }
+        else{
+            return {-1,-1};
+        }
+
     }
 };
