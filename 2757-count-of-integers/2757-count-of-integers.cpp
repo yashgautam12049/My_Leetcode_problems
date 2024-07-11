@@ -3,7 +3,7 @@ int mod=1e9+7;
 class Solution {
 public:
 int dp[23][2][2][401];
-    ll solve(int ind,bool tight1,bool tight2,string &num1, string &num2,int sum){
+    ll solve(int ind,bool tight1,bool tight2,string num1, string num2,int sum){
         if(sum<0) return 0;
         if(ind==num2.size())return 1;
         if(dp[ind][tight1][tight2][sum]!=-1){
