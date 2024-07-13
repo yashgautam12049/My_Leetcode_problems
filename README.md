@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2635-check-if-point-is-reachable](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2635-check-if-point-is-reachable) |
 | [2757-count-of-integers](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2757-count-of-integers) |
 ## Recursion
 |  |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0794-swim-in-rising-water) |
+## Number Theory
+|  |
+| ------- |
+| [2635-check-if-point-is-reachable](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2635-check-if-point-is-reachable) |
 <!---LeetCode Topics End-->
