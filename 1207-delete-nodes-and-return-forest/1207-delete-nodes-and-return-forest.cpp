@@ -11,29 +11,30 @@
  */
 class Solution {
 public:
-    vector<TreeNode*> res;
-    set<int> dp;
-    
-    void util(TreeNode* &root){
-        if(root!=NULL){
-            util(root->left);
-            util(root->right);
-            if(dp.find(root->val)!=dp.end()){
-                if(root->left) res.push_back(root->left);
-                if(root->right) res.push_back(root->right);
+        vector<TreeNode*>v;
+        void tra(TreeNode* &root,set<int>st){
+            if(!root) return;
+            if(root){
+                tra(root->left,st);
+            tra(root->right,st);
+            if(st.find(root->val)!=st.end()){
+                if(root->left)v.push_back(root->left);
+                if(root->right)v.push_back(root->right);
                 root=NULL;
                 delete root;
             }
+            }
+            // v.push_back(root);
+            
+
         }
-    }
+
     vector<TreeNode*> delNodes(TreeNode* root, vector<int>& to_delete) {
-        for(int i=0;i<to_delete.size();i++){
-            dp.insert(to_delete[i]);
-        }
-        util(root);
+        set<int>st(to_delete.begin(),to_delete.end());
+        tra(root,st);
         if(root){
-            res.push_back(root);
+            v.push_back(root);
         }
-        return res;
+        return v;
     }
 };
