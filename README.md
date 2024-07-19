@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0174-dungeon-game](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0174-dungeon-game) |
 | [0337-house-robber-iii](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0337-house-robber-iii) |
+| [0458-poor-pigs](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0458-poor-pigs) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2757-count-of-integers](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2757-count-of-integers) |
 ## Sorting
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0458-poor-pigs](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0458-poor-pigs) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2635-check-if-point-is-reachable](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2635-check-if-point-is-reachable) |
 | [2757-count-of-integers](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2757-count-of-integers) |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
+## Combinatorics
+|  |
+| ------- |
+| [0458-poor-pigs](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0458-poor-pigs) |
 <!---LeetCode Topics End-->
