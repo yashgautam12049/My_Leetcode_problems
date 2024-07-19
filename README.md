@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0794-swim-in-rising-water) |
 | [0833-bus-routes](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0833-bus-routes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1207-delete-nodes-and-return-forest) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1720-crawler-log-folder](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1803-average-waiting-time) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0174-dungeon-game](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0174-dungeon-game) |
 | [0794-swim-in-rising-water](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0794-swim-in-rising-water) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Number Theory
 |  |
 | ------- |
