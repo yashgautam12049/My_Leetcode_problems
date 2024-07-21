@@ -8,7 +8,7 @@ public:
         long long i=0;
         long long j=n-1;
         long long ans=0;
-        while(k--){
+        while( k--){
             long long k1=candidates;
             while(k1-- && pq1.size()!=candidates && i<=j){
                 pq1.push(costs[i]);
@@ -32,7 +32,16 @@ public:
             // ans+=pq2.top()<pq1.top()?pq2.top():pq1.top();
         }
         // if(k!=0){
-           
+            // while(k--){
+            //     if(pq2.top()<pq1.top()){
+            //     ans+=pq2.top();
+            //     pq2.pop();
+            // }
+            // else{
+            //     ans+=pq1.top();
+            //     pq1.pop();
+            // }
+            // }
         // }
         return ans;
     }
