@@ -192,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0458-poor-pigs](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0458-poor-pigs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1054-complement-of-base-10-integer](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1054-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->
