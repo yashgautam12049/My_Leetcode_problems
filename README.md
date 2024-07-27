@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0794-swim-in-rising-water) |
 | [0833-bus-routes](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0833-bus-routes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1207-delete-nodes-and-return-forest) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1720-crawler-log-folder](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1720-crawler-log-folder) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0174-dungeon-game) |
 | [0337-house-robber-iii](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0337-house-robber-iii) |
 | [0458-poor-pigs](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0458-poor-pigs) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2757-count-of-integers](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2757-count-of-integers) |
 ## Sorting
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0015-3sum) |
 | [0726-number-of-atoms](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0726-number-of-atoms) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2846-robot-collisions](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2846-robot-collisions) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0099-recover-binary-search-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0669-trim-a-binary-search-tree) |
 | [0794-swim-in-rising-water](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0794-swim-in-rising-water) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Binary Tree
