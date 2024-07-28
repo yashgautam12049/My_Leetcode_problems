@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0174-dungeon-game](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0174-dungeon-game) |
 | [0303-range-sum-query-immutable](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0303-range-sum-query-immutable) |
 | [0753-open-the-lock](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0753-open-the-lock) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Simulation
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0726-number-of-atoms](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0726-number-of-atoms) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
