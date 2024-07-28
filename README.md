@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0458-poor-pigs](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0458-poor-pigs) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2444-longest-ideal-subsequence](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2444-longest-ideal-subsequence) |
 | [2757-count-of-integers](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2757-count-of-integers) |
 ## Sorting
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2444-longest-ideal-subsequence](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2444-longest-ideal-subsequence) |
 | [2757-count-of-integers](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2757-count-of-integers) |
 ## Stack
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0753-open-the-lock) |
 | [0833-bus-routes](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0833-bus-routes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1207-delete-nodes-and-return-forest) |
+| [2444-longest-ideal-subsequence](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2444-longest-ideal-subsequence) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
 ## Monotonic Stack
