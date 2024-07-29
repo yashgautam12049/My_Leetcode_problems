@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1511-count-number-of-teams](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1511-count-number-of-teams) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1720-crawler-log-folder](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1803-average-waiting-time) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0337-house-robber-iii) |
 | [0458-poor-pigs](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0458-poor-pigs) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1511-count-number-of-teams](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1511-count-number-of-teams) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2444-longest-ideal-subsequence](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2444-longest-ideal-subsequence) |
 | [2757-count-of-integers](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2757-count-of-integers) |
@@ -228,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2171-second-minimum-time-to-reach-destination) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
