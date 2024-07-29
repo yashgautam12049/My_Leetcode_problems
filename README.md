@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Depth-First Search
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Greedy
 |  |
 | ------- |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0753-open-the-lock) |
 | [0833-bus-routes](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0833-bus-routes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1207-delete-nodes-and-return-forest) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2444-longest-ideal-subsequence](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2444-longest-ideal-subsequence) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
