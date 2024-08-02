@@ -12,11 +12,11 @@ int width;
         }
         //take
         int take=INT_MAX;
-        int not_take=INT_MAX;
+        // int not_take=INT_MAX;
         if(shelfWidth>=books[ind][0]){
         take=solve(ind+1,books,shelfWidth-books[ind][0],max(maxH,books[ind][1]));
         }
-        not_take=maxH+solve(ind+1,books,width-books[ind][0],books[ind][1]);
+        int not_take=maxH+solve(ind+1,books,width-books[ind][0],books[ind][1]);
         return dp[ind][shelfWidth] = min(take,not_take);
     }
     int minHeightShelves(vector<vector<int>>& books, int shelfWidth) {
