@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0174-dungeon-game](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0174-dungeon-game) |
 | [0303-range-sum-query-immutable](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0307-range-sum-query-mutable) |
 | [0753-open-the-lock](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0753-open-the-lock) |
 | [0794-swim-in-rising-water](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0794-swim-in-rising-water) |
 | [0833-bus-routes](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0833-bus-routes) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0307-range-sum-query-mutable) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -249,5 +251,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0307-range-sum-query-mutable) |
 | [1511-count-number-of-teams](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1511-count-number-of-teams) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
