@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0753-open-the-lock) |
 | [0794-swim-in-rising-water](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0794-swim-in-rising-water) |
 | [0833-bus-routes](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0833-bus-routes) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1196-filling-bookcase-shelves](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0833-bus-routes](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0833-bus-routes) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1753-path-with-minimum-effort) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0174-dungeon-game](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0174-dungeon-game) |
 | [0794-swim-in-rising-water](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0794-swim-in-rising-water) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1753-path-with-minimum-effort) |
 ## Number Theory
