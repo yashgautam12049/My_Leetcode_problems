@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0040-combination-sum-ii](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0040-combination-sum-ii) |
 | [0073-set-matrix-zeroes](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0174-dungeon-game](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0174-dungeon-game) |
@@ -322,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
