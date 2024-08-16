@@ -49,7 +49,7 @@ public:
             ans=ans*10;
         }
         ans/=10;
-        if(ans>N && N<2147483647 && ans<=2147483647){
+        if(ans>N && N<INT_MAX && ans<=INT_MAX){
             return ans;
         }
         return -1;
