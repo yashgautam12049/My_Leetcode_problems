@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0174-dungeon-game) |
 | [0303-range-sum-query-immutable](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0307-range-sum-query-mutable) |
+| [0624-maximum-distance-in-arrays](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0753-open-the-lock](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0753-open-the-lock) |
 | [0794-swim-in-rising-water](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0794-swim-in-rising-water) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0402-remove-k-digits) |
+| [0624-maximum-distance-in-arrays](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0624-maximum-distance-in-arrays) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
