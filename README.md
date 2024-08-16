@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2505-number-of-good-paths](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2505-number-of-good-paths) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2846-robot-collisions](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2846-robot-collisions) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2505-number-of-good-paths](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2505-number-of-good-paths) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2846-robot-collisions](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2505-number-of-good-paths](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2505-number-of-good-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0794-swim-in-rising-water) |
 | [1753-path-with-minimum-effort](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1753-path-with-minimum-effort) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2505-number-of-good-paths](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2505-number-of-good-paths) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -268,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2444-longest-ideal-subsequence](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2444-longest-ideal-subsequence) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2505-number-of-good-paths](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2505-number-of-good-paths) |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
@@ -281,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2505-number-of-good-paths](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2505-number-of-good-paths) |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
 ## Combinatorics
 |  |
