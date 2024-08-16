@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0088-merge-sorted-array) |
+| [0556-next-greater-element-iii](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0556-next-greater-element-iii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0273-integer-to-english-words](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0273-integer-to-english-words) |
 | [0458-poor-pigs](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0458-poor-pigs) |
+| [0556-next-greater-element-iii](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0556-next-greater-element-iii) |
 | [0870-magic-squares-in-grid](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0870-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0909-stone-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0273-integer-to-english-words](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0273-integer-to-english-words) |
 | [0402-remove-k-digits](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0402-remove-k-digits) |
+| [0556-next-greater-element-iii](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0556-next-greater-element-iii) |
 | [0726-number-of-atoms](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0726-number-of-atoms) |
 | [0753-open-the-lock](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0753-open-the-lock) |
 | [1720-crawler-log-folder](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1720-crawler-log-folder) |
