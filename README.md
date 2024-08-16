@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0174-dungeon-game) |
 | [0303-range-sum-query-immutable](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0307-range-sum-query-mutable) |
+| [0496-next-greater-element-i](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0624-maximum-distance-in-arrays](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0753-open-the-lock](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0753-open-the-lock) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0726-number-of-atoms](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0726-number-of-atoms) |
 | [1720-crawler-log-folder](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0073-set-matrix-zeroes) |
+| [0496-next-greater-element-i](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0726-number-of-atoms](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0726-number-of-atoms) |
 | [0753-open-the-lock](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0753-open-the-lock) |
 | [0833-bus-routes](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0833-bus-routes) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0496-next-greater-element-i) |
 ## Graph
 |  |
 | ------- |
