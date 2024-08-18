@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0174-dungeon-game](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0174-dungeon-game) |
+| [0264-ugly-number-ii](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0264-ugly-number-ii) |
 | [0337-house-robber-iii](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0337-house-robber-iii) |
 | [0458-poor-pigs](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0458-poor-pigs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0273-integer-to-english-words) |
 | [0458-poor-pigs](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0458-poor-pigs) |
 | [0556-next-greater-element-iii](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0556-next-greater-element-iii) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0264-ugly-number-ii) |
 | [0744-network-delay-time](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0794-swim-in-rising-water) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0073-set-matrix-zeroes) |
+| [0264-ugly-number-ii](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0264-ugly-number-ii) |
 | [0496-next-greater-element-i](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0726-number-of-atoms](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0726-number-of-atoms) |
 | [0753-open-the-lock](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0753-open-the-lock) |
