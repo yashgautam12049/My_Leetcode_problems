@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0909-stone-game) |
 | [0921-spiral-matrix-iii](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0948-sort-an-array) |
+| [1032-satisfiability-of-equality-equations](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1032-satisfiability-of-equality-equations) |
 | [1063-best-sightseeing-pair](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1063-best-sightseeing-pair) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1196-filling-bookcase-shelves](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1196-filling-bookcase-shelves) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0556-next-greater-element-iii) |
 | [0726-number-of-atoms](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0726-number-of-atoms) |
 | [0753-open-the-lock](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0753-open-the-lock) |
+| [1032-satisfiability-of-equality-equations](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1032-satisfiability-of-equality-equations) |
 | [1720-crawler-log-folder](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0794-swim-in-rising-water) |
+| [1032-satisfiability-of-equality-equations](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1032-satisfiability-of-equality-equations) |
 | [1753-path-with-minimum-effort](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1753-path-with-minimum-effort) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2505-number-of-good-paths](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2505-number-of-good-paths) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1032-satisfiability-of-equality-equations](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1032-satisfiability-of-equality-equations) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2505-number-of-good-paths](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2505-number-of-good-paths) |
