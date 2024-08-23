@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1720-crawler-log-folder) |
 | [1753-path-with-minimum-effort](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1753-path-with-minimum-effort) |
 | [1803-average-waiting-time](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1803-average-waiting-time) |
+| [1918-maximum-score-of-a-good-subarray](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0556-next-greater-element-iii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1918-maximum-score-of-a-good-subarray](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Simulation
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1753-path-with-minimum-effort](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1753-path-with-minimum-effort) |
+| [1918-maximum-score-of-a-good-subarray](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Binary Tree
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1918-maximum-score-of-a-good-subarray](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2846-robot-collisions](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2846-robot-collisions) |
 ## Breadth-First Search
 |  |
@@ -311,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0937-online-stock-span) |
+| [1918-maximum-score-of-a-good-subarray](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1918-maximum-score-of-a-good-subarray) |
 ## Graph
 |  |
 | ------- |
