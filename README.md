@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0307-range-sum-query-mutable) |
 | [0496-next-greater-element-i](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0496-next-greater-element-i) |
+| [0502-ipo](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0502-ipo) |
 | [0624-maximum-distance-in-arrays](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0753-open-the-lock](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0753-open-the-lock) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0088-merge-sorted-array) |
+| [0502-ipo](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0502-ipo) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0948-sort-an-array) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0402-remove-k-digits) |
+| [0502-ipo](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0502-ipo) |
 | [0624-maximum-distance-in-arrays](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0624-maximum-distance-in-arrays) |
 | [1304-longest-happy-string](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1304-longest-happy-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0264-ugly-number-ii) |
+| [0502-ipo](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0502-ipo) |
 | [0744-network-delay-time](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0794-swim-in-rising-water) |
