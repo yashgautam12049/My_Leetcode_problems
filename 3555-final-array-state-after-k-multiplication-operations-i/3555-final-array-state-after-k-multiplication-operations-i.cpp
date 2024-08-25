@@ -8,8 +8,7 @@ public:
         int i=0;
             while(i<n){
                 if(t==1){
-                    i=n;
-                    continue;
+                    break;
                 }
                 if(nums[i]==b){
                     nums[i]=nums[i]*multiplier;
