@@ -1,52 +1,51 @@
 class Solution {
-    string makeDigit(int num, int digits) {
-        string s = to_string(num);
-        int n = s.size();
-        for(int i=0;i<digits-n;i++)
-            s = "0" + s;
-        return s;
+public:
+    string convert(int num, int max_digit) {
+        string a = to_string(max_digit);
+        string b = to_string(num);
+        while (b.size() != a.size()) {
+            b = '0' + b;
+        }
+        return b;
     }
-
-    unordered_set<string> makeSwapChanges(int num, int digits) {
-        string s = makeDigit(num, digits);
-        unordered_set<string> poss;
-        poss.insert(s);
-        
-        for(int i = 0; i < digits; ++i) {
-            for(int j = i + 1; j < digits; ++j) {
-                swap(s[i], s[j]);
-                poss.insert(s);
-                for(int i1 = 0; i1 < digits; ++i1) {
-                    for(int j1 = i1+1; j1 < digits; ++j1) {
-                        if(s[i1] != s[j1]) {
-                            swap(s[i1], s[j1]);
-                            poss.insert(s);
-                            swap(s[j1], s[i1]);
-                        }
+    unordered_set<string> all_possibility(int num, int max_digit) {
+        unordered_set<string> store_possibilty;
+        string curr = convert(num, max_digit);
+        int n = curr.size();
+        store_possibilty.insert(curr);
+        for (int i = 0; i < n; i++) {
+            for (int j = i + 1; j < n; j++) {
+                // firs swap
+                swap(curr[i], curr[j]);
+                store_possibilty.insert(curr);
+                for (int i_ = 0; i_ < n; i_++) {
+                    for (int j_ = i_ + 1; j_ < n; j_++) {
+                        // second swap
+                        swap(curr[i_], curr[j_]);
+                        store_possibilty.insert(curr);
+                        swap(curr[j_], curr[i_]);
+                        // if(curr[i_]!=curr[j_]){
+                        // }
                     }
                 }
-                swap(s[i], s[j]);
+                swap(curr[j], curr[i]);
             }
         }
-        return poss;
+        return store_possibilty;
     }
-
-public:
     int countPairs(vector<int>& nums) {
+        int max_digit = *max_element(nums.begin(), nums.end());
         int n = nums.size();
-        int digits = to_string(*max_element(nums.begin(),nums.end())).size();
-
+        int result = 0;
         unordered_map<string, int> mp;
-        int ans = 0;
-        for(int i = 0; i < n; ++i) {
-            for(const auto& s : makeSwapChanges(nums[i], digits)) {
-                if(mp.count(s)) {
-                    ans += mp[s];
+        for (int i = 0; i < n; i++) {
+            for (auto it : all_possibility(nums[i], max_digit)) {
+                if (mp.count(it)) {
+                    result+=mp[it];
                 }
             }
-            mp[makeDigit(nums[i], digits)]++;
+            mp[convert(nums[i], max_digit)]++;
         }
-
-        return ans;
+        return result;
     }
 };
