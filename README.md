@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0337-house-robber-iii) |
 | [0669-trim-a-binary-search-tree](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0669-trim-a-binary-search-tree) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1207-delete-nodes-and-return-forest) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0337-house-robber-iii) |
 | [0669-trim-a-binary-search-tree](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0669-trim-a-binary-search-tree) |
 | [0744-network-delay-time](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0744-network-delay-time) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0794-swim-in-rising-water](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1021-distribute-coins-in-binary-tree) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0726-number-of-atoms](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0726-number-of-atoms) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0886-score-of-parentheses](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0886-score-of-parentheses) |
 | [0937-online-stock-span](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0937-online-stock-span) |
 | [1720-crawler-log-folder](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1720-crawler-log-folder) |
