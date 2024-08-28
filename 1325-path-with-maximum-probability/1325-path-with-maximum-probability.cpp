@@ -29,6 +29,6 @@ public:
                 }
             }
         }
-        return result[end_node];
+        return 0.0;
     }
 };
