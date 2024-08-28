@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1196-filling-bookcase-shelves](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1240-stone-game-ii) |
+| [1325-path-with-maximum-probability](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1325-path-with-maximum-probability) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1511-count-number-of-teams) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0948-sort-an-array) |
 | [1304-longest-happy-string](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1304-longest-happy-string) |
+| [1325-path-with-maximum-probability](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1325-path-with-maximum-probability) |
 | [1753-path-with-minimum-effort](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1753-path-with-minimum-effort) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Matrix
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1032-satisfiability-of-equality-equations](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1032-satisfiability-of-equality-equations) |
+| [1325-path-with-maximum-probability](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1325-path-with-maximum-probability) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2505-number-of-good-paths](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2505-number-of-good-paths) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1325-path-with-maximum-probability](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1325-path-with-maximum-probability) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Binary Indexed Tree
 |  |
