@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1325-path-with-maximum-probability) |
 | [1753-path-with-minimum-effort](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1753-path-with-minimum-effort) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2803-modify-graph-edge-weights](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2803-modify-graph-edge-weights) |
 ## Matrix
 |  |
 | ------- |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2445-reachable-nodes-with-restrictions](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2505-number-of-good-paths](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2505-number-of-good-paths) |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
+| [2803-modify-graph-edge-weights](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2803-modify-graph-edge-weights) |
 ## Combinatorics
 |  |
 | ------- |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1325-path-with-maximum-probability) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2803-modify-graph-edge-weights](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2803-modify-graph-edge-weights) |
 ## Binary Indexed Tree
 |  |
 | ------- |
