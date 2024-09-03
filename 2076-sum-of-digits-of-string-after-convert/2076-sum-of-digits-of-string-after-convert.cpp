@@ -1,10 +1,10 @@
 class Solution {
 public:
-    int convert(char a){
-        string s="";
-        s+=a;
-        return stoi(s);
-    }
+    // int convert(char a){
+    //     string s="";
+    //     s+=a;
+    //     return stoi(s);
+    // }
     int getLucky(string s, int k) {
         string temp="";
         for(auto it:s){
@@ -14,7 +14,7 @@ public:
         while(k--){
             result=0;
             for(auto it:temp){
-                result+=(convert(it));
+                result+=(it-'0');
             }
             temp=to_string(result);
         }
