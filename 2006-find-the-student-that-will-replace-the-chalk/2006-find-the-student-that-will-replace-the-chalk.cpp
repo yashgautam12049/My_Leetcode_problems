@@ -1,20 +1,21 @@
+using ll=long long;
 class Solution {
 public:
-    int chalkReplacer(vector<int>& chalk, int initialChalkPieces) {
-        long long totalChalkNeeded = 0;
-        for (int studentChalkUse : chalk) {
-            totalChalkNeeded += studentChalkUse;
+    int chalkReplacer(vector<int>& chalk, int k) {
+        ll sum=accumulate(chalk.begin(),chalk.end(),0ll);
+        ll n=chalk.size();
+        if(k%sum==0){
+            return 0;
         }
-        
-        int remainingChalk = initialChalkPieces % totalChalkNeeded;
-        
-        for (int studentIndex = 0; studentIndex < chalk.size(); studentIndex++) {
-            if (remainingChalk < chalk[studentIndex]) {
-                return studentIndex;
+        else{
+            ll remaining=k%sum;
+            for(ll i=0;i<n;i++){
+                if(remaining<chalk[i]){
+                    return i;
+                }
+                remaining-=chalk[i];
             }
-            remainingChalk -= chalk[studentIndex];
         }
-        
         return 0;
     }
 };
