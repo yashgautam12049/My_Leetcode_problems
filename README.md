@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0794-swim-in-rising-water) |
 | [0833-bus-routes](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0833-bus-routes) |
 | [0870-magic-squares-in-grid](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0870-magic-squares-in-grid) |
+| [0906-walking-robot-simulation](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0906-walking-robot-simulation) |
 | [0909-stone-game](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0909-stone-game) |
 | [0921-spiral-matrix-iii](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0948-sort-an-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0592-fraction-addition-and-subtraction) |
+| [0906-walking-robot-simulation](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0921-spiral-matrix-iii) |
 | [1803-average-waiting-time](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0753-open-the-lock) |
 | [0833-bus-routes](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0833-bus-routes) |
 | [0870-magic-squares-in-grid](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0870-magic-squares-in-grid) |
+| [0906-walking-robot-simulation](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1207-delete-nodes-and-return-forest](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2306-create-binary-tree-from-descriptions) |
