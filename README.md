@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2155-find-missing-observations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2155-find-missing-observations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2846-robot-collisions](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2846-robot-collisions) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1240-stone-game-ii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2155-find-missing-observations](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2155-find-missing-observations) |
 | [2635-check-if-point-is-reachable](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2635-check-if-point-is-reachable) |
 | [2757-count-of-integers](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2757-count-of-integers) |
 ## Recursion
