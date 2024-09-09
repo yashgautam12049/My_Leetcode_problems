@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2155-find-missing-observations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2411-spiral-matrix-iv](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2411-spiral-matrix-iv) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2505-number-of-good-paths](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2505-number-of-good-paths) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2538-minimum-cost-to-make-array-equal) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2155-find-missing-observations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2411-spiral-matrix-iv](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2411-spiral-matrix-iv) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2846-robot-collisions](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2846-robot-collisions) |
 ## Linked List
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2411-spiral-matrix-iv](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Dynamic Programming
 |  |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2411-spiral-matrix-iv](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2411-spiral-matrix-iv) |
 ## Number Theory
 |  |
 | ------- |
