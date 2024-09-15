@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0303-range-sum-query-immutable) |
 | [1240-stone-game-ii](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1240-stone-game-ii) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Math
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-score-of-parentheses](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0886-score-of-parentheses) |
 | [1032-satisfiability-of-equality-equations](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1032-satisfiability-of-equality-equations) |
 | [1304-longest-happy-string](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1304-longest-happy-string) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1720-crawler-log-folder](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1207-delete-nodes-and-return-forest](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1207-delete-nodes-and-return-forest) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2444-longest-ideal-subsequence](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2444-longest-ideal-subsequence) |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0476-number-complement](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1054-complement-of-base-10-integer) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Shortest Path
