@@ -1,29 +1,37 @@
 class Solution {
 public:
     int findTheLongestSubstring(string s) {
-        int prefixXOR = 0;
-        // Store the masks of all letters in an array.
-        int characterMap[26] = {0};
-        characterMap['a' - 'a'] = 1;
-        characterMap['e' - 'a'] = 2;
-        characterMap['i' - 'a'] = 4;
-        characterMap['o' - 'a'] = 8;
-        characterMap['u' - 'a'] = 16;
-        // Initialize mp to store the previous index with this prefixXOR value.
-        vector<int> mp(32, -1);
-        int longestSubstring = 0;
-
-        for (int i = 0; i < s.length(); i++) {
-            // If the current character is a vowel, find it's prefix XOR and add
-            // it in the map.
-            prefixXOR ^= characterMap[s[i] - 'a'];
-            if (mp[prefixXOR] == -1 and prefixXOR != 0) mp[prefixXOR] = i;
-
-            // If the value of prefixXOR exists in the map, find the longest
-            // subarray.
-            longestSubstring = max(longestSubstring, i - mp[prefixXOR]);
+        vector<int>store(5,0);
+        map<string,int>mp;
+        int ans=0;
+        string curr="00000";
+        mp[curr]=-1;
+        for(int i=0;i<s.size();i++){
+            if(s[i]=='a'){
+                store[0]=(store[0]+1)%2;
+            }
+            if(s[i]=='e'){
+                store[1]=(store[1]+1)%2;
+            }
+            if(s[i]=='i'){
+                store[2]=(store[2]+1)%2;
+            }
+            if(s[i]=='o'){
+                store[3]=(store[3]+1)%2;
+            }
+            if(s[i]=='u'){
+                store[4]=(store[4]+1)%2;
+            }
+            curr="";
+            for(int j=0;j<5;j++){
+                curr+=to_string(store[j]);
+            }
+            if(mp.find(curr)!=mp.end()){
+            ans=max(ans,i-mp[curr]);
+            }else{
+            mp[curr]=i;
+            }
         }
-
-        return longestSubstring;
+        return ans;
     }
 };
