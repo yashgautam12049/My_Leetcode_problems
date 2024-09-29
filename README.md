@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0174-dungeon-game](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0179-largest-number) |
+| [0212-word-search-ii](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0212-word-search-ii) |
 | [0303-range-sum-query-immutable](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0307-range-sum-query-mutable) |
 | [0496-next-greater-element-i](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0496-next-greater-element-i) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0179-largest-number) |
+| [0212-word-search-ii](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0273-integer-to-english-words) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0174-dungeon-game](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0174-dungeon-game) |
+| [0212-word-search-ii](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0212-word-search-ii) |
 | [0794-swim-in-rising-water](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0794-swim-in-rising-water) |
 | [0870-magic-squares-in-grid](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0921-spiral-matrix-iii) |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0040-combination-sum-ii) |
+| [0212-word-search-ii](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0212-word-search-ii) |
 ## Game Theory
 |  |
 | ------- |
@@ -536,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0212-word-search-ii) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2755-extra-characters-in-a-string](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2755-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
