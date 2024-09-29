@@ -2,11 +2,12 @@ class Solution {
 public:
 vector<string>result;
 int row,col;
+vector<pair<int,int>>dir={{-1,0},{1,0},{0,-1},{0,1}};
     //node struct for trie
     struct tries{
         bool endofword;
-        string word;
         tries* children[26];
+        string word;
     };
 
     tries* getnewnode(){
@@ -33,7 +34,7 @@ int row,col;
         traverse->word=wordss;
     }
     void findword(int i,int j,vector<vector<char>>& board,tries* root){
-        vector<pair<int,int>>dir={{-1,0},{1,0},{0,-1},{0,1}};
+        
         if(i<0 || j<0 || i>=row || j>=col||board[i][j]=='$' || root->children[board[i][j]-'a']==NULL){
             return;
         }
