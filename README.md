@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0212-word-search-ii) |
 | [0303-range-sum-query-immutable](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0307-range-sum-query-mutable) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0502-ipo) |
 | [0539-minimum-time-difference](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0539-minimum-time-difference) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0208-implement-trie-prefix-tree](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0264-ugly-number-ii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0726-number-of-atoms](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0726-number-of-atoms) |
 | [0753-open-the-lock](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0753-open-the-lock) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0476-number-complement](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1054-complement-of-base-10-integer) |
 | [1435-xor-queries-of-a-subarray](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1435-xor-queries-of-a-subarray) |
@@ -545,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0212-word-search-ii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2755-extra-characters-in-a-string](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2755-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
