@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0753-open-the-lock) |
 | [0794-swim-in-rising-water](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0794-swim-in-rising-water) |
 | [0833-bus-routes](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0833-bus-routes) |
+| [0859-design-circular-deque](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0906-walking-robot-simulation) |
 | [0909-stone-game](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0909-stone-game) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0432-all-oone-data-structure) |
+| [0859-design-circular-deque](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2411-spiral-matrix-iv](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2411-spiral-matrix-iv) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0307-range-sum-query-mutable) |
 | [0432-all-oone-data-structure](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0432-all-oone-data-structure) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0859-design-circular-deque](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0859-design-circular-deque) |
 | [0937-online-stock-span](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0937-online-stock-span) |
 ## Prefix Sum
 |  |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0859-design-circular-deque) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Tree
 |  |
