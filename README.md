@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0556-next-greater-element-iii](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0556-next-greater-element-iii) |
+| [0567-permutation-in-string](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1918-maximum-score-of-a-good-subarray) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0556-next-greater-element-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0726-number-of-atoms) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0432-all-oone-data-structure](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0432-all-oone-data-structure) |
 | [0496-next-greater-element-i](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0726-number-of-atoms) |
 | [0753-open-the-lock](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0753-open-the-lock) |
 | [0833-bus-routes](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0833-bus-routes) |
@@ -600,4 +603,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0729-my-calendar-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
