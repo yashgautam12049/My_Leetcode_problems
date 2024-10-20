@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0174-dungeon-game](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0174-dungeon-game) |
 | [0241-different-ways-to-add-parentheses](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0241-different-ways-to-add-parentheses) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0179-largest-number](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0212-word-search-ii) |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0040-combination-sum-ii) |
 | [0212-word-search-ii](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0212-word-search-ii) |
 ## Game Theory
