@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0870-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0909-stone-game) |
+| [1033-broken-calculator](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1033-broken-calculator) |
 | [1240-stone-game-ii](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1240-stone-game-ii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2155-find-missing-observations) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0502-ipo) |
 | [0624-maximum-distance-in-arrays](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1033-broken-calculator](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1033-broken-calculator) |
 | [1304-longest-happy-string](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1304-longest-happy-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
