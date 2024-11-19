@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2505-number-of-good-paths](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2505-number-of-good-paths) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2444-longest-ideal-subsequence](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2444-longest-ideal-subsequence) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2505-number-of-good-paths](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2505-number-of-good-paths) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2755-extra-characters-in-a-string](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2755-extra-characters-in-a-string) |
@@ -660,4 +662,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/0567-permutation-in-string) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yashgautam12049/My_Leetcode_problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
